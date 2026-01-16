@@ -1,6 +1,6 @@
 body{
     background-color: blue;
-    font: normal 15pt helvetica;
+    font: normal 18pt impact;
 
 }
 
@@ -24,6 +24,15 @@ footer{
     color: aliceblue;
     text-align: center;
     font-style: italic;
-    
 
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+    
+}
+div{
+    text-align: center;
+    padding: 8px;
 }
